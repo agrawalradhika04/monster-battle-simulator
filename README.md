@@ -1,2 +1,2 @@
 # monster-battle-simulator
-This project features an implementation of a simple console-based Monster battle simulator.
+This project features an implementation of a simple console-based Monster battle simulator. It includes a Monster class with attributes like health, power, toughness, and name. Users can create two monsters, set their stats, and initiate turn-based combat between them. The game handles attack logic, health reduction, healing options, and life status checks. Players can choose to continue battles or revive dead monsters using health boosts.
