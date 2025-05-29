@@ -1,5 +1,3 @@
-// Radhika Agrawal
-// HW 5 - CS 210
 // Implementation of Monster class
 
 #include "Monster.h"
