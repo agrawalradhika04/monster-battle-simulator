@@ -1,5 +1,3 @@
-// Radhika Agrawal
-// HW 5 - CS 210
 // Main program to call monster class
 
 #include "Monster.h"
