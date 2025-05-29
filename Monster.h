@@ -1,5 +1,3 @@
-// Radhika Agrawal
-// HW 5 - CS 210
 // Monster class
 
 #ifndef MONSTER_H
